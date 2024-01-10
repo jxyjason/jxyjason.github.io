@@ -9,7 +9,7 @@ published: true
 
 ![](https://github.com/jxyjason/jxyjason/raw/main/img/leaves_sky.jpg)
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="45" /> About Me:
 - 🏦 I am currently studying for my undergraduate degree in the School of Software, Shandong University.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 In the future, I will go to the Institute of Computing Technology, Chinese Academy of Sciences (ICT) to study for a master's degree.
