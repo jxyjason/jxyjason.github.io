@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="35" />
 
 ![](https://github.com/jxyjason/jxyjason/raw/main/img/leaves_sky.jpg)
 
