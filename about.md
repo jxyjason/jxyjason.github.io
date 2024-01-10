@@ -21,7 +21,7 @@ published: true
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
-      <img src="https://github.com/uiwjs/file-icons/blob/master/icon/verilog.svg" alt="Verilog" width="65" height="65"/> 
+      <img src="https://raw.githubusercontent.com/uiwjs/file-icons/14d99db13ae7ebfd83fdb295d9b81dd8e49373c6/icon/verilog.svg" alt="Verilog" width="65" height="65"/>
       <img src="https://vectorwiki.com/images/QSjY4__xilinx.svg" alt="Xilinx" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
