@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Jay Alammar
+name: Xingyu blog
 
 # Short bio or description (displayed in the header)
-description: Visualizing machine learning one concept at a time.
+description: nice to meet you
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/1007956?s=460&v=4
+avatar: https://avatars.githubusercontent.com/u/90661453?s=400&u=d1217d812f103a516fa28b709a9a12d3d14f05d5&v=4
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: jalammar
+  github: jxyjason
   instagram:
-  linkedin: jalammar
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jayalammar
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,7 +41,7 @@ google_analytics: UA-71956058-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://jalammar.github.io
+url: http://jxyjason.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
