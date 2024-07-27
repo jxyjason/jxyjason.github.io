@@ -1,6 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-![](images/love_cloud.jpg)
+![](https://github.com/jxyjason/jxyjason.github.io/blob/master/images/hello/love_cloud.jpg?raw=true)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I am studying for my master's degree at the Institute of Computing Technology, University of Chinese Academy of Sciences
